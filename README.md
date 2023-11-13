@@ -18,9 +18,25 @@ NEXT.js를 이용한 포트폴리오 사이트 만들기입니다.
 
 ### 😝 풀스택 도전 PHP로 나만의 블로그 만들기
 디자인 + 코딩 + 개발을 이용하여 블로그 사이트를 만들기 입니다.
+<br>
+<br>
+<br>
 
+## 💻 HEEJIN's log 💻
+<div style="display:flex; flex-direction:row;">
+    <a href="https://wabhistory-book.tistory.com"/>
+        <img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white"> 
+    </a>
+</div><br>
 
-          
+## 📞 Contact 📞
+<div style="display:flex; flex-direction:row;">
+    <a href="mailto:hee031812@gmail.com">
+        <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"> 
+    </a>
+</div><br><br>
+
+## 👩‍🔧 Use 👩‍🔧
 <div>
   <a href="#"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white"></a>
   <a href="#"><img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?logo=HTML5&logoColor=white"></a>
