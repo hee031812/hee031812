@@ -20,3 +20,6 @@ NEXT.js를 이용한 포트폴리오 사이트 만들기입니다.
 
 ### 😝 풀스택 도전 PHP로 나만의 블로그 만들기
 디자인 + 코딩 + 개발을 이용하여 블로그 사이트를 만들기 입니다.
+
+
+<img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white">
