@@ -1,4 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=Welcome%20to%20HEEJIN's%20GitHub%20👋&animation=twinkling&fontSize=35&fontAlignY=40&fontAlign=70&height=250)
+
+<div align=center>
 ### Hi , there ! 🤙
 
 ### 🦕 포트폴리오 사이트 만들기 : [VITE](https://github.com/hee031812/vite-project.git)
@@ -57,3 +59,5 @@ NEXT.js를 이용한 포트폴리오 사이트 만들기입니다.
   <a href="#"><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?logo=Postman&logoColor=white"></a>
   <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual Studio Code-007ACC?logo=Visual Studio Code&logoColor=white"></a>
 </div>
+</div>
+
