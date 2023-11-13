@@ -14,13 +14,13 @@ VUE.js를 이용한 포트폴리오 사이트 만들기입니다.
 NEXT.js를 이용한 포트폴리오 사이트 만들기입니다.
 
 ### 🥰 나만의 유튜브 사이트 만들기 : [REACT.JS](https://github.com/hee031812/react-youtube.git)
-리액트를 이용하여 나만의 유튜브 사이트 만들기 입니다.
+리액트를 이용하여 나만의 여행 유튜브 사이트 만들기 입니다.
 
 ### 😝 풀스택 도전 PHP로 나만의 블로그 만들기
 디자인 + 코딩 + 개발을 이용하여 블로그 사이트를 만들기 입니다.
 
 
-
+          
 <div>
   <a href="#"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white"></a>
   <a href="#"><img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?logo=HTML5&logoColor=white"></a>
