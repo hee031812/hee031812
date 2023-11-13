@@ -1,6 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=Welcome%20to%20HEEJIN's%20GitHub%20👋&animation=twinkling&fontSize=35&fontAlignY=40&fontAlign=70&height=250)
 
-<div align=center>
+<div align=center;flex-direction:row;>
+    
 ### Hi , there ! 🤙
 
 ### 🦕 포트폴리오 사이트 만들기 : [VITE](https://github.com/hee031812/vite-project.git)
