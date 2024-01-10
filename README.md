@@ -2,19 +2,7 @@
 
 <div align=center>
     
-### Hi , there ! 🤙
-
-### 🦕 포트폴리오 사이트 만들기 : [VITE](https://github.com/hee031812/vite-project.git)
-vite를 이용한 포트폴리오 사이트 만들기 입니다.
-
-### 🐑 포트폴리오 사이트 만들기 : [REACT.JS](https://github.com/hee031812/react-project.git)
-React.js를 이용한 포트폴리오 사이트 만들기입니다.
-
-### 🐪 포트폴리오 사이트 만들기 : [VUE.JS](https://github.com/hee031812/vue-project.git)
-VUE.js를 이용한 포트폴리오 사이트 만들기입니다.
-
-### 🐒 포트폴리오 사이트 만들기 : [NEXT.JS](https://github.com/hee031812/next-project.git)
-NEXT.js를 이용한 포트폴리오 사이트 만들기입니다.
+## Hi , there ! 🤙
 
 ### 🥰 나만의 유튜브 사이트 만들기 : [REACT.JS](https://github.com/hee031812/react-youtube.git)
 리액트를 이용하여 나만의 여행 유튜브 사이트 만들기 입니다.
@@ -30,6 +18,19 @@ PHP 를 이용하여 올바른 분리수거 방법을 알려주는 사이트를 
 
 ### 🐶 RECYCLING 사이트 만들기 : [REACT. NODE.JS] (https://github.com/chfhr22/petpar)
 REACT. NODE.JS 를 이용하여 유기동물 플랫폼을 만들었습니다.
+
+### 🦕 포트폴리오 사이트 만들기 : [VITE](https://github.com/hee031812/vite-project.git)
+vite를 이용한 포트폴리오 사이트 만들기 입니다.
+
+### 🐑 포트폴리오 사이트 만들기 : [REACT.JS](https://github.com/hee031812/react-project.git)
+React.js를 이용한 포트폴리오 사이트 만들기입니다.
+
+### 🐪 포트폴리오 사이트 만들기 : [VUE.JS](https://github.com/hee031812/vue-project.git)
+VUE.js를 이용한 포트폴리오 사이트 만들기입니다.
+
+### 🐒 포트폴리오 사이트 만들기 : [NEXT.JS](https://github.com/hee031812/next-project.git)
+NEXT.js를 이용한 포트폴리오 사이트 만들기입니다.
+
 <br>
 <br>
 <br>
