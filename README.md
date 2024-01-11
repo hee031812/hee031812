@@ -1,10 +1,10 @@
-![header](https://github.com/hee031812/youtube-project)
+![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=Welcome%20to%20HEEJIN's%20GitHub%20👋&animation=twinkling&fontSize=35&fontAlignY=40&fontAlign=70&height=250)
 
 <div align=center>
     
 ## Hi , there ! 🤙
 
-### 🥰 나만의 유튜브 사이트 만들기 : [REACT.JS]([https://github.com/hee031812/react-youtube.git](https://github.com/hee031812/youtube-project))
+### 🥰 나만의 유튜브 사이트 만들기 : [REACT.JS](https://github.com/hee031812/youtube-project)
 리액트를 이용하여 나만의 여행 유튜브 사이트 만들기 입니다.
 
 ### 😝 풀스택 도전 PHP로 나만의 블로그 만들기 : [PHP](https://github.com/hee031812/php-travel-blog)
