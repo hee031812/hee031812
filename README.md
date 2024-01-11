@@ -10,7 +10,7 @@
 ### 😝 풀스택 도전 PHP로 나만의 블로그 만들기 : [PHP](https://github.com/hee031812/php-travel-blog)
 디자인 + 코딩 + 개발을 이용하여 블로그 사이트를 만들기 입니다.
 
-### 🤗 나만의 영화 사이트 만들기 : [VUTE](https://github.com/hee031812/movie-project)
+### 🤗 나만의 영화 사이트 만들기 : [VITE](https://github.com/hee031812/movie-project)
 VITE 를 이용하여 나만의 영화 사이트를 만들었습니다.
 
 ### 🗑 RECYCLING 사이트 만들기 : [PHP](https://github.com/hee031812/recycle-project)
