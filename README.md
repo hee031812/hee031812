@@ -20,8 +20,10 @@ PHP 를 이용하여 올바른 분리수거 방법을 알려주는 사이트를 
 REACT. NODE.JS 를 이용하여 유기동물 플랫폼을 만들었습니다.
 
 ### 💻 퀴즈게임 만들기 : [JAVASCRIPT](https://github.com/hee031812/uquiz)
+javascript를 이용하여 인물 퀴즈게임을 만들었습니다.
 
 ### 📚 자격증 시험 퀴즈 : [JAVASCRIPT](https://github.com/hee031812/javascript.quiz)
+javascript를 이용하여 자격증 퀴즈를 만들었습니다.
 
 ### 🦕 포트폴리오 사이트 만들기 : [VITE](https://github.com/hee031812/vite-project.git)
 vite를 이용한 포트폴리오 사이트 만들기 입니다.
