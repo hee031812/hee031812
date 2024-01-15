@@ -19,9 +19,9 @@ PHP 를 이용하여 올바른 분리수거 방법을 알려주는 사이트를 
 ### 🐶 PETPAR 사이트 만들기 : [REACT. NODE.JS](https://github.com/chfhr22/petpar)
 REACT. NODE.JS 를 이용하여 유기동물 플랫폼을 만들었습니다.
 
-### 💻 퀴즈게임 만들기 : [JAVASCRIPT] (https://github.com/hee031812/uquiz)
+### 💻 퀴즈게임 만들기 : [JAVASCRIPT](https://github.com/hee031812/uquiz)
 
-### 📚 자격증 시험 퀴즈 : [JAVASCRIPT] (https://github.com/hee031812/javascript.quiz)
+### 📚 자격증 시험 퀴즈 : [JAVASCRIPT](https://github.com/hee031812/javascript.quiz)
 
 ### 🦕 포트폴리오 사이트 만들기 : [VITE](https://github.com/hee031812/vite-project.git)
 vite를 이용한 포트폴리오 사이트 만들기 입니다.
