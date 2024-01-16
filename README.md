@@ -4,6 +4,12 @@
     
 ## Hi , there ! 🤙
 
+### 🗑 RECYCLING 사이트 만들기 : [PHP](https://github.com/hee031812/recycle-project)
+PHP 를 이용하여 올바른 분리수거 방법을 알려주는 사이트를 만들었습니다.
+
+### 🐶 PETPAR 사이트 만들기 : [REACT. NODE.JS](https://github.com/chfhr22/petpar)
+REACT. NODE.JS 를 이용하여 유기동물 플랫폼을 만들었습니다.
+
 ### 🥰 나만의 유튜브 사이트 만들기 : [REACT.JS](https://github.com/hee031812/youtube-project)
 리액트를 이용하여 나만의 여행 유튜브 사이트 만들기 입니다.
 
@@ -12,12 +18,6 @@
 
 ### 🤗 나만의 영화 사이트 만들기 : [VITE](https://github.com/hee031812/movie-project)
 VITE 를 이용하여 나만의 영화 사이트를 만들었습니다.
-
-### 🗑 RECYCLING 사이트 만들기 : [PHP](https://github.com/hee031812/recycle-project)
-PHP 를 이용하여 올바른 분리수거 방법을 알려주는 사이트를 만들었습니다.
-
-### 🐶 PETPAR 사이트 만들기 : [REACT. NODE.JS](https://github.com/chfhr22/petpar)
-REACT. NODE.JS 를 이용하여 유기동물 플랫폼을 만들었습니다.
 
 ### 💻 퀴즈게임 만들기 : [JAVASCRIPT](https://github.com/hee031812/uquiz)
 javascript를 이용하여 인물 퀴즈게임을 만들었습니다.
