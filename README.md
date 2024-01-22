@@ -48,6 +48,9 @@ NEXT.js를 이용한 포트폴리오 사이트 만들기입니다.
         <img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white"> 
     </a>
 </div><br>
+<div>
+<a href="https://hee031812.github.io/">github blog</a>
+</div>
 
 ## 📞 Contact 📞
 <div style="display:flex; flex-direction:row;">
